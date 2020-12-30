@@ -1,2 +1,2 @@
 # JavaMethodReferencePractice
-A repo for practising Java method references.
+A simple java project intended to demonstrate how Method References can be used in Java.
